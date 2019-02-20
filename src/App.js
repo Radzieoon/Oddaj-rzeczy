@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {BrowserRouter,Switch,Route} from "react-router-dom";
-// import './App.scss';
+import './App.scss';
 import {Template} from "./components/Template/Template";
 import {LandingPage} from "./components/LandingPage/LandingPage";
 import {NotFound} from "./components/NotFound/NotFound";
